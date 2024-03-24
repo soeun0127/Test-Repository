@@ -14,5 +14,8 @@ for i in range(b):
 
 # pull-request 실습 과제
 
-
+print(f"{a:.2f}"} //수정 2
+print(a, b)
+for i in range(b):
+  print(i)
 
