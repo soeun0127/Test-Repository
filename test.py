@@ -23,7 +23,7 @@ for size in f_size:
 	f.append(gr)
 	
 	
-for i in range(len(f)-1):
+for i in range(len(f)):
 	print(f[i]+g[i])
 	
 
