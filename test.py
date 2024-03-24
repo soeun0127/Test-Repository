@@ -10,7 +10,7 @@ random.shuffle(names)
 random.shuffle(freshman)
 g=[]
 f=[]
-g_size = [4,4,4,5,8,8,8]
+g_size = [3,3,3,3,2,2,2]
 f_size = [1,1,1,1,2,3,3]
 
 for size in g_size:
