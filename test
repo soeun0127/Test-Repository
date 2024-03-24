@@ -2,6 +2,9 @@ a = 5
 b = 2
 
 print(f"{a:.1f}"}
-print("a, b")
+print(a, b)
+//큰따옴표 삭제(수정 1)
+
+
 
 // pull-request 실습 과제
