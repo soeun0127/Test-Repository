@@ -20,7 +20,7 @@ for size in g_size:
 for size in f_size:
 	gr =freshman[:size]
 	freshman =freshman[size:]
-	f.append(f)
+	f.append(gr)
 	
 	
 for i in range(len(f)):
