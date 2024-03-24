@@ -1,7 +1,0 @@
-a = 5
-b = 2
-
-print(f"{a:.1f}"}
-print("a, b")
-
-// pull-request 실습 과제
